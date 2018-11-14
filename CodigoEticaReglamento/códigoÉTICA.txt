@@ -1,0 +1,16 @@
+NOMBRES DEL EQUIPO: 
+Carla Pérez Gavilán Del Castillo
+Luis Emilio Alcántara
+Enrique Orduña
+Rodrigo Sibaja
+Jesús Maximiliano Meléndez
+
+Nombre del Equipo: 
+No tenemos nombre
+
+Descripción de las actividades abordada en sus presentaciones: 
+*El caso de facebook (hackeo de cuentas)
+*La relación entre los principio y responsabildades según la Association for Computer Machinery. 
+*Resolución de casos con el Código de Conducta del Tec. 
+*Se cubren temas como: revalidación de materias, aprobar o reprobar materias, intercambios, entre otros. 
+
